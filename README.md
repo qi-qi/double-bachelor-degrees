@@ -1,5 +1,5 @@
 # Double Bachelor Degrees: Bachelor of Science (Engineering)
-2008 - 2012: Graduated with First Class Degree Honours
+2008 - 2012: Achieved First Class Degree Honours
 - https://github.com/qi-qi/degree
 
 ## Telecommunications Engineering with Management
