@@ -12,8 +12,8 @@
 
 `Bachelor Degree Project`
 - Matlab Data Processing with Visualisation Application for Zebrafish Acquisition System
-   - https://github.com/qi-qi/zebrafish
-   - https://bitbucket.org/qiqiuklife/zebrafish/src
+   - [https://github.com/qi-qi/zebrafish](https://github.com/qi-qi/zebrafish)
+   - [https://bitbucket.org/qi-qi/zebrafish/src](https://bitbucket.org/qi-qi/zebrafish/src)
 
 `Double Bachelor Degrees | Certificates & First Class Degree Hours`
 1. Bachelor Degree 1 - Queen Mary University of London - QMUL, London, United Kingdom
