@@ -4,9 +4,9 @@
 
 ## Telecommunications Engineering with Management
 `Double Bachelor Degrees: Universities`
-1. Queen Mary University of London - QMUL, London, United Kingdom
+1. Queen Mary University of London - QMUL | London, United Kingdom
     - [https://www.qmul.ac.uk](https://www.qmul.ac.uk)
-2. Beijing University of Posts and Telecommunications - BUPT, Beijing, China
+2. Beijing University of Posts and Telecommunications - BUPT | Beijing, China
     - [https://www.bupt.edu.cn](https://www.bupt.edu.cn)
     - [https://english.bupt.edu.cn](https://english.bupt.edu.cn)
 
@@ -16,13 +16,13 @@
    - [https://bitbucket.org/qi-qi/zebrafish/src](https://bitbucket.org/qi-qi/zebrafish/src)
 
 `Double Bachelor Degrees | Certificates & First Class Degree Hours`
-1. Bachelor Degree 1 - Queen Mary University of London - QMUL, London, United Kingdom
+1. Bachelor Degree 1 - Queen Mary University of London - QMUL | London, United Kingdom
     - [https://github.com/qi-qi/degree/raw/master/BachelorDegree_QMUL.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegree_QMUL.pdf)
-2. Bachelor Degree 2 - Beijing University of Posts and Telecommunications - BUPT, Beijing, China
+2. Bachelor Degree 2 - Beijing University of Posts and Telecommunications - BUPT | Beijing, China
     - [https://github.com/qi-qi/degree/raw/master/BachelorDegree_BUPT.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegree_BUPT.pdf)
-3. Bachelor Degree Certificate 1 - Queen Mary University of London - QMUL, London, United Kingdom
+3. Bachelor Degree Certificate 1 - Queen Mary University of London - QMUL | London, United Kingdom
     - [https://github.com/qi-qi/degree/raw/master/BachelorDegreeCertificate_QMUL.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegreeCertificate_QMUL.pdf)
-4. Bachelor Degree Certificate 2 - Beijing University of Posts and Telecommunications - BUPT, Beijing, China
+4. Bachelor Degree Certificate 2 - Beijing University of Posts and Telecommunications - BUPT | Beijing, China
     - [https://github.com/qi-qi/degree/raw/master/BachelorDegreeCertificate_BUPT.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegreeCertificate_BUPT.pdf)
 
 `Programme Description`
@@ -32,11 +32,11 @@
 
 ## Double Bachelor Degrees | Certificates & First Class Degree Hours
 
-### Queen Mary University of London - QMUL, London, United Kingdom
+### Queen Mary University of London - QMUL | London, United Kingdom
 [https://github.com/qi-qi/degree/raw/master/BachelorDegree_QMUL.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegree_QMUL.pdf)
 ![](https://github.com/qi-qi/degree/raw/master/img/BachelorDegree_QMUL.jpg)
 
-### Beijing University of Posts and Telecommunications - BUPT, Beijing, China
+### Beijing University of Posts and Telecommunications - BUPT | Beijing, China
 [https://github.com/qi-qi/degree/raw/master/BachelorDegree_BUPT.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegree_BUPT.pdf)
 ![](https://github.com/qi-qi/degree/raw/master/img/BachelorDegree_BUPT.jpg)
 
